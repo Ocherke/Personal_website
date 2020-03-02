@@ -1,0 +1,30 @@
+div {
+    width: 8000px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  #text {
+    width: 300px;
+    background-color: grey;
+    height: 200px;
+    overflow: auto;
+    margin: 20px;
+    padding: 10px;
+    border: 20px;
+  }
+ 
+  .important {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+ 
+  .picture {
+    width: 600px;
+    height: 500px;
+    padding: 10px;
+    border: 4px dotted red;
+    
+    
+  }
+  

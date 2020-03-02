@@ -1,0 +1,13 @@
+.Box {
+width: 100px;
+height: 50px;
+background-color: black;
+
+}
+h1 {border: 1px solid red
+    padding: 50px;
+    border: 1px solid #5D6063;
+  }
+  body {background-color:rgb(216, 200, 200);}
+  h1 {color:rgb(117, 117, 214);}
+  p {color:rgb(121, 86, 86);}
